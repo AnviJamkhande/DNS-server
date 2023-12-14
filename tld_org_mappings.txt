@@ -1,0 +1,5 @@
+yahoo.org 192.168.1.1
+skiksha.edu.org 192.168.1.1
+byjus.edu.org 192.168.1.1
+today.org 192.168.1.1
+pranjali.org 192.168.1.1

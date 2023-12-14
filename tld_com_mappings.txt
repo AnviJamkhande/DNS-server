@@ -1,0 +1,6 @@
+google.com 192.168.1.11
+youtube.com 192.168.1.11
+shiksha.com 192.168.1.11
+hell.com 192.168.1.11
+anvi.com 192.168.1.11
+misportal.com 192.168.1.11
