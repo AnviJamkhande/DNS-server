@@ -1,0 +1,8 @@
+example.com 192.168.1.1
+google.com 172.217.168.238
+yahoo.com 98.137.246.7
+stackoverflow.com 151.101.1.69
+anvi.com 192.168.1.11
+atharvi.com 192.168.1.11
+hello.com 192.168.1.11
+abcd.com 192.168.1.11
