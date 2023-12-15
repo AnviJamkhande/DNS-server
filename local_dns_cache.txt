@@ -6,3 +6,7 @@ anvi.com 192.168.1.11
 atharvi.com 192.168.1.11
 hello.com 192.168.1.11
 abcd.com 192.168.1.11
+xyz.org 192.168.1.11
+onetwo.org 192.168.1.1
+yolo.org 203.0.113.10
+ymca.org 203.0.113.10

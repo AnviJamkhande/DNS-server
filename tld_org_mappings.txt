@@ -3,3 +3,8 @@ skiksha.edu.org 192.168.1.1
 byjus.edu.org 192.168.1.1
 today.org 192.168.1.1
 pranjali.org 192.168.1.1
+xyz.org 192.168.1.11
+123.org 192.168.1.1
+onetwo.org 192.168.1.1
+yolo.org 203.0.113.10
+ymca.org 203.0.113.10
